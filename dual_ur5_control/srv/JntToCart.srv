@@ -1,6 +1,0 @@
-bool left_or_right
-trajectory_msgs/JointTrajectoryPoint[] joint_trajectory
-
----
-
-geometry_msgs/Pose[] cart_trajectory
